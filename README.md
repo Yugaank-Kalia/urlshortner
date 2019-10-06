@@ -1,2 +1,2 @@
 # Url Shortner
-## Using Mongo DB Express React Node.js
+Using MongoDB Express React Node.js
